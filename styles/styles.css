@@ -1,0 +1,142 @@
+#header {
+position: relative;
+top: 5px;
+font-size: 10pt;
+float:right;
+margin-right: 20px;
+line-height: 25px;
+}
+#header li{
+float: left;
+display: inline-block;
+margin: 0 20px 0 0;
+font-family: arial, sans-serif;
+}
+#header ul
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.btn
+{
+font-family: arial, sans-serif;
+color: white;
+background-color: #4683EA;
+border: 1px solid #4285F4;
+padding: 3px 3px;
+}
+
+.href
+{
+color:  black;
+text-decoration: none;
+}
+#footer ul
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+#footer li
+{
+float:left; display:block;
+width: 120px;
+font-family: arial, sans-serif;
+}
+#footer
+{
+position: absolute;
+bottom: 0;
+padding-bottom: 0;
+margin-bottom: 0;
+height: 35px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+font-size: 10pt;
+background-color: #f2f2f2;
+border-top: 1px solid #e4e4e4;
+line-height: 35px;
+text-align: center;
+}
+#l_footer
+{
+float: left;
+}
+#r_footer
+{
+float: right;
+}
+
+#center{
+height:92px;
+width:272px;
+}
+#center1
+ {
+    padding-top: 175px;
+    margin-bottom: 20px;
+    text-align: center;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#googleapps
+{
+height: 25px;
+width: 25px;
+position: relative;
+
+}
+#search
+{
+display: block;
+height: 25px;
+width:500px;
+border-radius: 2px;
+border: 1px solid #ddd;
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+}
+#button1
+{
+text-align:center;
+box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+margin: 0 6px;
+height: 36px;
+line-height: 18px;
+color: #666;
+background-color: #F5F5F5;
+border: 1px solid #c6c6c6;
+padding: 6px 10px;
+text-decoration: none;
+border-radius: 2px;
+font-weight: bold;
+}
+#button2
+{
+text-align:center;
+box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+margin: 0 6px;
+height: 36px;
+line-height: 18px;
+color: #666;
+background-color: #F5F5F5;
+border: 1px solid #c6c6c6;
+padding: 6px 10px;
+text-decoration: none;
+border-radius: 2px;
+font-weight: bold;
+}
+input
+{
+border: 1px solid #d9d9d9 ;
+height: 25px;
+width: 584px;
+}
+
